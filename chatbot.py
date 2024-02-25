@@ -7,7 +7,7 @@ responses = {
     (r'how are you',): ["I'm doing well, thank you!", "I'm great, thanks for asking!"],
     (r'what is your name',): ["My name is Chatbot!", "I'm Chatbot!"],
     (r'what do you do',): ["I'm a chatbot designed to help you learn more about Despoina Kotsopoulou, a Data Scientist, AI Engineer, and Researcher."],
-    (r'how can I contact her',): ["You can contact her by email at: despoinakotsopoulou@gmail.com"],
+    (r'how can I contact her',): ["You can contact her by checking the email on her resume"],
     (r'quit',): ["Goodbye!", "Bye!", "See you later!"],
 }
 
